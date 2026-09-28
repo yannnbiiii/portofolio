@@ -21,7 +21,7 @@ html {
 }
 
 body {
-    /* GANTI URL BACKGROUND KAMU DI SINI */
+    /* Background Image*/
     background-image: url('background.jpg');
     background-size: cover;
     background-position: center;
